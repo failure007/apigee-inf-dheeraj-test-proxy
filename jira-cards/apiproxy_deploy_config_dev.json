@@ -4,7 +4,7 @@
       "proxy": "apigee-inf-dheeraj-test-proxy",
       "revision": "7",
       "env": "dev-common",
-      "deploy": "false",
+      "deploy": "true",
       "products": [
         {
           "product": "apigee-inf-dheeraj-test-product-DEV"
