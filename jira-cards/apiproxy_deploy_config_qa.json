@@ -1,0 +1,15 @@
+{ 
+  "proxies": [
+    {
+      "proxy": "apigee-inf-dheeraj-test-proxy",
+      "revision": "4",
+      "env": "qa-common",
+      "deploy": "false",
+      "products": [
+        {
+          "product": "apigee-inf-dheeraj-test-product-QA"
+        }
+      ]
+    }
+  ]
+}

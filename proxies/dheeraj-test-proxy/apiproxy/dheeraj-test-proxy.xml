@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="dheeraj-test-proxy">
+  <DisplayName/>
+  <Description>Dummy proxy for testing purpose</Description>
+  <CreatedAt>1769201065193</CreatedAt>
+  <LastModifiedAt>1769201372007</LastModifiedAt>
+  <BasePaths>/dheeraj-test-proxy</BasePaths>
+  <Policies>
+    <Policy>RF-Default-Fault</Policy>
+  </Policies>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>TargetEndpoint-1</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
